@@ -8,3 +8,5 @@ You will see interesting patterns in this chart! Enjoy it.
 2) ``exit_reactor.gif`` is an animation I built with plotly to show the time evolution of the concentration of a component at the exit of three chemical reactors. The data comes from a simulation of the reactors! I can repeat to any time-dependent data. It is very compelling and help to tell histories.
 
 3) ``profile_reactor.gif`` is a gif I recorded of an animation built with plotly showing the time evolution of the concentration of a component along the axial dimension of a chemical reactor. The data comes from a simulation of the reactor! I can repeat to any time-dependent data. It is very compelling and help to tell histories.
+
+4) ``radartop.gif`` is a gif I recorded of an animation built with plotly showing the time evolution of the intensity of a perfume over time at fixed distances from the perfume soruce! The data comes from numerical simulations of perfume release.
