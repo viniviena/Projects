@@ -7,5 +7,6 @@ This folder holds two jupyter notebook files and .csv file. The notebooks have p
 
 2) ``crawler.py`` is a python code that scrap the http://www.thegoodscentscompany.com/ website to hunt molecules used in perfumery and their descriptors! 
 see my blog post showing how this can be useful. https://viniviena.github.io/ds-blog/cheminformatics/perfumes/machine%20learning/2021/02/15/Smells-PT.html
+``curated_ds.csv`` is the file I wrote after running the code and removing some of other useless words (from a perfumery perspective). Feel free to use it! There is nothing similar available in the web up do date (march 2021).
 
 
